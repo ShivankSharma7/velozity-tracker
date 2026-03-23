@@ -1,6 +1,8 @@
 # Velozity Tracker
 **Developed by Shivank Sharma**
 
+[![Live Demo](https://img.shields.io/badge/Launch_App-Live_Demo-indigo?style=for-the-badge&logo=vercel)](https://velozity-tracker-five.vercel.app/)
+
 Velozity Tracker is a professional project management application designed for high-performance data handling. The system is built to synchronize tasks across three distinct views—Kanban, List, and Timeline—while maintaining a fluid user experience even under heavy data loads.
 
 ---
@@ -10,10 +12,10 @@ The application has been audited using Google Lighthouse to ensure industry-stan
 
 | Category | Score |
 | :--- | :--- |
-| Performance | 100 / 100 |
-| Accessibility | 93 / 100 |
-| Best Practices | 100 / 100 |
-| SEO | 90 / 100 |
+| Performance | 100 / 100 🚀 |
+| Accessibility | 93 / 100 🟢 |
+| Best Practices | 100 / 100 🏆 |
+| SEO | 90 / 100 🟢 |
 
 ---
 
@@ -45,21 +47,4 @@ The application uses the React Context API combined with the useReducer hook. Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShivankSharma7/Velozity-Tracker.git
-   ```
-
-2. Install the necessary dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
----
-
-**Developed by Shivank Sharma | March 2026**
-
-Would you like me to help you draft the final email or portal message for your submission?
+   git clone [https://github.com/ShivankSharma7/Velozity-Tracker.git](https://github.com/ShivankSharma7/Velozity-Tracker.git)
